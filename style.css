@@ -1,8 +1,8 @@
  Body {
-   background: =00132B;
+   background: #2C7FC2;
    font-family: helvetica, arial, sans-serif;
    font-size: 16px;
-   color: #A0AAA9;
+   color: #000000;
   }
 
   P {
@@ -16,7 +16,7 @@
   #container {
     width: 90%;
     max-width: 800px;
-    background: #1C2S41;
+    background: #1C2541;
     margin: top right bottom left;
     margin: 30px auto;
     padding: 30px;
