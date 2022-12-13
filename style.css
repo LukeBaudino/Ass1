@@ -21,3 +21,8 @@
     margin: 30px auto;
     padding: 30px;
   }
+
+  section{
+   border-top: 1px solid #5BC0BE;
+   padding: 20px 0 0 0;
+  }
