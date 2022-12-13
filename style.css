@@ -5,14 +5,39 @@
    color: #FFFFFF;
   }
 
+li {
+  font-size: 1em;
+  color: #000000
+}
+
   P {
     font-size: 1em;
     line-height: 1.4em;
     margin-bottom: 20px;
+    color: #000000;
+  }
+
+  h1{
+    font-size: 1.5em;
+    margin-bottom: -6px;
     color: #FFFFFF;
   }
 
+  h2{
+    font-size: 1.15em;
+    font-style: italic;
+    font-weight: bolder;
+    color: #000000
+  }
 
+  h3{
+    font-size: 1.05em;
+    color: #000000
+  }
+
+  h4{
+    color: #07364A
+  }
   #container {
     width: 90%;
     max-width: 800px;
@@ -23,6 +48,6 @@
   }
 
   section{
-   border-top: 3px solid #5BC0BE;
+   border-top: 2px solid #5BC0BE;
    padding: 20px 0 0 0;
   }
