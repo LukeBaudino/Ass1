@@ -5,10 +5,16 @@
    color: #FFFFFF;
   }
 
-  #headshot img{
+  #headshot img {
     width: 100px;
     height: 100px;
   }
+
+#Gamingsetup img {
+  width: 400px;
+  height: 200px;
+  margin-bottom: 20px;
+}
 
 li {
   font-size: 1em;
